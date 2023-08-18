@@ -9,5 +9,5 @@ A collection of all available inference solutions for the LLMs
 | [DeepSpeed](https://github.com/microsoft/DeepSpeed) | Microsoft | DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective
 | [OpenLLM](https://github.com/bentoml/OpenLLM) | BentoML | Operating LLMs in production
 | [LLMDeploy](https://github.com/InternLM/lmdeploy) | InternLM Team | LMDeploy is a toolkit for compressing, deploying, and serving LLM
-| [FlexFlow] (https://github.com/flexflow/FlexFlow) | CMU,Stanford,UCSD | A distributed deep learning framework.
+| [FlexFlow](https://github.com/flexflow/FlexFlow) | CMU,Stanford,UCSD | A distributed deep learning framework.
 
