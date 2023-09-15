@@ -10,4 +10,6 @@ A collection of all available inference solutions for the LLMs
 | [OpenLLM](https://github.com/bentoml/OpenLLM) | BentoML | Operating LLMs in production
 | [LLMDeploy](https://github.com/InternLM/lmdeploy) | InternLM Team | LMDeploy is a toolkit for compressing, deploying, and serving LLM
 | [FlexFlow](https://github.com/flexflow/FlexFlow) | CMU,Stanford,UCSD | A distributed deep learning framework.
+| [CTranslate2](https://github.com/OpenNMT/CTranslate2) | OpenNMT | Fast inference engine for Transformer models
+
 
