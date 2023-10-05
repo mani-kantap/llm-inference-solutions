@@ -13,5 +13,7 @@ A collection of all available inference solutions for the LLMs
 | [CTranslate2](https://github.com/OpenNMT/CTranslate2) | OpenNMT | Fast inference engine for Transformer models
 | [Fastchat](https://github.com/lm-sys/FastChat) | lm-sys | An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 | [Triton-Inference-Server](https://github.com/triton-inference-server/server) | Nvidia | The Triton Inference Server provides an optimized cloud and edge inferencing solution.
+| [Lepton.AI](https://github.com/leptonai/leptonai) | lepton.ai|A Pythonic framework to simplify AI service building
+
 
 
