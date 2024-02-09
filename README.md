@@ -16,6 +16,7 @@ A collection of all available inference solutions for the LLMs
 | [Lepton.AI](https://github.com/leptonai/leptonai) | lepton.ai|A Pythonic framework to simplify AI service building
 | [ScaleLLM](https://github.com/vectorch-ai/ScaleLLM) | Vectorch | A high-performance inference system for large language models, designed for production environments
 | [Lorax](https://predibase.com/blog/lorax-the-open-source-framework-for-serving-100s-of-fine-tuned-llms-in) | Predibase | Serve 100s of Fine-Tuned LLMs in Production for the Cost of 1
+| [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) | Nvidia | TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines
 
 
 
