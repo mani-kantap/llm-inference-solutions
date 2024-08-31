@@ -18,6 +18,7 @@ A collection of all available inference solutions for the LLMs
 | [Lorax](https://predibase.com/blog/lorax-the-open-source-framework-for-serving-100s-of-fine-tuned-llms-in) | Predibase | Serve 100s of Fine-Tuned LLMs in Production for the Cost of 1
 | [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) | Nvidia | TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines
 | [mistral.rs](https://github.com/EricLBuehler/mistral.rs) | mistral.rs|  Blazingly fast LLM inference.
+| [NanoFlow](https://github.com/efeslab/Nanoflow) | NanoFlow | A throughput-oriented high-performance serving framework for LLMs
 
 
 
