@@ -20,6 +20,7 @@ A collection of all available inference solutions for the LLMs
 | [mistral.rs](https://github.com/EricLBuehler/mistral.rs) | mistral.rs|  Blazingly fast LLM inference.
 | [NanoFlow](https://github.com/efeslab/Nanoflow) | NanoFlow | A throughput-oriented high-performance serving framework for LLMs
 | [LMCache](https://github.com/LMCache/LMCache) | LMCache | Fast and Cost Efficient Inference
+| [Litserve](https://github.com/Lightning-AI/LitServe) | Lighting.AI | Lightning-fast serving engine for AI models. Flexible. Easy. Enterprise-scale.
 
 
 
