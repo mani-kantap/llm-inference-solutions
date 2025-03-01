@@ -21,6 +21,7 @@ A collection of all available inference solutions for the LLMs
 | [NanoFlow](https://github.com/efeslab/Nanoflow) | NanoFlow | A throughput-oriented high-performance serving framework for LLMs
 | [LMCache](https://github.com/LMCache/LMCache) | LMCache | Fast and Cost Efficient Inference
 | [Litserve](https://github.com/Lightning-AI/LitServe) | Lighting.AI | Lightning-fast serving engine for AI models. Flexible. Easy. Enterprise-scale.
+| [Deepseek Inference System Overview](https://github.com/deepseek-ai/open-infra-index/blob/main/202502OpenSourceWeek/day_6_one_more_thing_deepseekV3R1_inference_system_overview.md) | Deepseek | higher throughput and lower latency
 
 
 
